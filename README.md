@@ -1,6 +1,7 @@
 PyAlgoTrade
 ===========
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/baff7fd9e7f8453da2653bc85508819e)](https://www.codacy.com/app/chopchopjames/pyalgotrade-cn?utm_source=github.com&utm_medium=referral&utm_content=chopchopjames/pyalgotrade-cn&utm_campaign=badger)
 [![version status](https://pypip.in/v/pyalgotrade/badge.png)](https://pypi.python.org/pypi/pyalgotrade)
 [![downloads](https://pypip.in/d/pyalgotrade/badge.png)](https://pypi.python.org/pypi/pyalgotrade)
 [![build status](https://travis-ci.org/gbeced/pyalgotrade.png?branch=master)](https://travis-ci.org/gbeced/pyalgotrade)
